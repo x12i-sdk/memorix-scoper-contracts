@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-scoper-contracts",
+  "packageVersion": "3.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-scoper-contracts",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-scoper-contracts",
+  "sourceRepository": "https://github.com/x12i/scoper-monorepo",
+  "sourceCommit": "1fbab09cdcf68c47f68594bd91b2145a31128f77",
+  "sourcePackageDirectory": "packages/contracts",
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:31:05.372606+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "ee258c428944737e4ea5b3731b536d3445469322de69cbd5ab0ac1e60e4cb0d3",
+    "manifestSha256": "0c35a5784e57250e8540db53d6d5ad8789c6b5ae77ec686d1c71047557d833d4"
+  }
+}
